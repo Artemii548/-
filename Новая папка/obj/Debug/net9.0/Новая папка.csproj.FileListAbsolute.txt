@@ -1,0 +1,14 @@
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\bin\Debug\net9.0\Новая папка.exe
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\bin\Debug\net9.0\Новая папка.deps.json
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\bin\Debug\net9.0\Новая папка.runtimeconfig.json
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\bin\Debug\net9.0\Новая папка.dll
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\bin\Debug\net9.0\Новая папка.pdb
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.dll
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\refint\Новая папка.dll
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.pdb
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Desktop\my_project\Новая папка\obj\Debug\net9.0\ref\Новая папка.dll
