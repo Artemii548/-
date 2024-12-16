@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\Новая папка\\Новая папка.csproj": {}
+    "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\-\\Новая папка\\Новая папка.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\Новая папка\\Новая папка.csproj": {
+    "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\-\\Новая папка\\Новая папка.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\Новая папка\\Новая папка.csproj",
+        "projectUniqueName": "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\-\\Новая папка\\Новая папка.csproj",
         "projectName": "Новая папка",
-        "projectPath": "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\Новая папка\\Новая папка.csproj",
+        "projectPath": "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\-\\Новая папка\\Новая папка.csproj",
         "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\Новая папка\\obj\\",
+        "outputPath": "C:\\Users\\artem\\OneDrive\\Desktop\\my_project\\-\\Новая папка\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config"
